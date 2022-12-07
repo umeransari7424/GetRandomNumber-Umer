@@ -2,3 +2,7 @@
   display: flex;
   
 }
+.random-img{
+  display: flex;
+  justify-content: center;
+}
