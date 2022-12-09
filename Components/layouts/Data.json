@@ -1,9 +1,9 @@
 [
-  { "id": "1", "img": "Assets/giftbox.png", "title": "Bronze" },
-  { "id": "2", "img": "Assets/giftbox.png", "title": "Silver" },
-  { "id": "3", "img": "Assets/giftbox.png", "title": "Gold" },
-  { "id": "4", "img": "Assets/giftbox.png", "title": "Bronze" },
-  { "id": "5", "img": "Assets/giftbox.png", "title": "Silver" },
-  { "id": "6", "img": "Assets/giftbox.png", "title": "Bronze" }
+  { "id": "1", "img": "Assets/giftbox.png" },
+  { "id": "2", "img": "Assets/giftbox.png"},
+  { "id": "3", "img": "Assets/giftbox.png" },
+  { "id": "4", "img": "Assets/giftbox.png" },
+  { "id": "5", "img": "Assets/giftbox.png" },
+  { "id": "6", "img": "Assets/giftbox.png" }
 
 ]
